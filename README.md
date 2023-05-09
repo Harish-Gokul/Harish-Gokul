@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mtpharishgokul@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/harishgokulresume](https://tinyurl.com/harishgokulresume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VfrA9FpqHGoEnY0plO_rTYiAZNy3zuWr/view?usp=sharing)
 <hr>
 <h3 align="left">Connect with me:</h3>
 
