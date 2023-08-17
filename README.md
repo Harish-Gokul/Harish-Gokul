@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Flight booking system ✈️](https://github.com/Harish-Gokul/flight-booking-system-frontend)
 
-- 🌱 I’m currently learning **Node js, mongodb**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://harish-gokul.github.io/portfolio/](https://harish-gokul.github.io/portfolio/)
 
