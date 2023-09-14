@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARISH GOKUL G</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harish-gokul&label=Profile%20views&color=0e75b6&style=flat" alt="harish-gokul" /> </p>
-
+ 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif" width="500" height="320" />
 
