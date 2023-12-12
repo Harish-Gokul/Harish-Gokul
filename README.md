@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on [Blog Application 📚](https://github.com/Harish-Gokul/Blog_Application)
+- 🔭 I’m currently working on [git streak web extension 🧩 (Private repo)]
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
